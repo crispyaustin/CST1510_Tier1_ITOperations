@@ -1,0 +1,6 @@
+ticket_id,requester,assigned_to,status,opened_at,resolved_at,priority
+T1,UserA,Staff1,Resolved,2025-11-01,2025-11-02,High
+T2,UserB,Staff2,Waiting for User,2025-11-03,,Medium
+T3,UserC,Staff1,In Progress,2025-11-04,,High
+T4,UserD,Staff3,Resolved,2025-11-05,2025-11-06,Low
+T5,UserE,Staff2,Open,2025-11-06,,Critical
